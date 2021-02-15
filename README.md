@@ -27,7 +27,7 @@ cd PyInterface/
 python3 setup.py
 ```
 
-*Example of usage:*
+**Example of usage:**
 ```
 sudo python3 arper.py -h
 ```
