@@ -27,7 +27,7 @@ cd PyInterface/
 python3 setup.py
 ```
 
-Example of usage:
+*Example of usage:*
 ```
 sudo python3 arper.py -h
 ```
@@ -38,7 +38,7 @@ sudo python3 deauth -h
 sudo python3 dhcp_listener.py
 ```
 
-_Run `arper.py` then run this script.:_
+ _Run `arper.py` then run this script:_
 ```
 sudo python3 dnser.py
 ```
